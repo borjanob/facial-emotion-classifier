@@ -1,6 +1,0 @@
-struktura na data annotation za YOLO
-# 0.123 0.123 0.123 0.123
-
-# -> broj na klasana na koja pripagja object [0,1,2..] zavisi kolku imame
-drugite brojki se endpoints za pravoagolniko so e okolu toj object
-
