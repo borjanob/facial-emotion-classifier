@@ -1,0 +1,11 @@
+opencv-python
+ultralytics
+roboflow
+pytesseract
+tesseract
+tesseract-ocr
+pandas
+numpy
+torch
+torchvision
+matplotlib
